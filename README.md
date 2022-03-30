@@ -1,4 +1,4 @@
-# batchprimer3-documented
+# BatchPrimer3-Documented
 
 ### REQUIREMENTS OF BATCHPRIMER3
 Language: Perl interpreter program, Perl 5.8 or above.<br>
