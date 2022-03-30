@@ -33,17 +33,14 @@ chmod 777 *
 programs, batchprimer3.cgi and batchprimer3_report.cgi. Please carefully check the 
 header part in these two files.
 
-5. Replace:
-"""
-<Directory />
-  AllowOverride none
-  Require all denied
-</Directory>
-in your apache config to:
-<Directory "/usr/local/htdocs/cgi-bin/">
-  AllowOverride None
-  Options +ExecCGI
-  Order allow,deny
-  Allow from all
-</Directory>
-"""
+5. Replace:<br>
+&#60;Directory&#62;<br>
+  AllowOverride none<br>
+  Require all denied<br>
+&#60;/Directory&#62;<br>
+<br>to:<br><br>&#60;Directory "/www/server/htdocs/cgi-bin/"&#62;<br>
+  AllowOverride None<br>
+  Options +ExecCGI<br>
+  Order allow,deny<br>
+  Allow from all<br>
+&#60;/Directory&#62;<br>
