@@ -1,0 +1,1 @@
+Index	Seq ID	Count	SSR start	SSR end	Mortif	Mortif len	SSR	SSR len

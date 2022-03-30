@@ -1,0 +1,1 @@
+Index	Seq ID	Count	Primer type	Orientation	Start	Len	tm	GC%	Any compl	3' compl	Seq	Prod size	Seq len	Included len	Pair any compl	Pair 3' compl	Motif	Motif Len	SSR	SSRLen

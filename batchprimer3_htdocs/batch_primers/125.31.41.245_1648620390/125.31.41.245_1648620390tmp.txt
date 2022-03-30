@@ -1,0 +1,1 @@
+Index	Seq ID	Count	Primer_type	Orientation	Start	Len	tm	GC%	Any compl	3' compl	Seq	Prod Size	Seq Length	Included Length	Pair any compl	Pair 3' compl
