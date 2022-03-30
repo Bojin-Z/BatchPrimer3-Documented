@@ -44,3 +44,5 @@ header part in these two files.
   Order allow,deny<br>
   Allow from all<br>
 &#60;/Directory&#62;<br>
+
+6. Uncomment "#AddHandler cgi-script .cgi"
