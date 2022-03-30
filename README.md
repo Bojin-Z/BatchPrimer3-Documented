@@ -34,6 +34,7 @@ programs, batchprimer3.cgi and batchprimer3_report.cgi. Please carefully check t
 header part in these two files.
 
 5. Replace:
+"""
 <Directory />
   AllowOverride none
   Require all denied
@@ -45,3 +46,4 @@ in your apache config to:
   Order allow,deny
   Allow from all
 </Directory>
+"""
