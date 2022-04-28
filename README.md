@@ -16,6 +16,14 @@ POSIX <br>
 Email::Valid<br>
 Thread<br>
 
+cpanm to install or:
+
+yum install perl-CGI-Session
+yum install perl-GD
+yum install perl-GD-Graph
+yum -y install perl-CPAN
+perl -MCPAN -e 'install GD::Graph'
+
 ### INSTALLATION
 
 Here are the installation instructions for Linux system.
